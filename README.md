@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Надежда Акиньшина](https://up.htmlacademy.ru/adaptive/30/user/2275815).
-* Наставник: [Анна Лисененкова] (https://htmlacademy.ru/profile/ankhena).
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
