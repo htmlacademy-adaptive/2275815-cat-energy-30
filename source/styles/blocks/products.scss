@@ -1,0 +1,35 @@
+.products {
+  //
+}
+
+.products__list {
+  font-family: $primery-font;
+  list-style-type: none;
+}
+
+
+.products__title {
+  font-family: $primery-font;
+  color: $primary-color;
+  font-size: 24px;
+  line-height: 37px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.products__description {
+  font-family: $secondly-font;
+  color: $primary-color;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.products__link {
+  font-family: $primery-font;
+  text-decoration: none;
+  color: $primary-color;
+  text-align: center;
+  font-size: 16px;
+  line-height: 16px;
+  text-transform: uppercase;
+}

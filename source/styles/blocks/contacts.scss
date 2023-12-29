@@ -1,0 +1,20 @@
+.contacts {
+  //
+}
+
+.contacts__title {
+  font-family: $primery-font;
+  color: #111111;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.contacts__text {
+  font-family: $secondly-font;
+  color: $secondary-color;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+}
